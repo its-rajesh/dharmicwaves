@@ -10,6 +10,8 @@ description = "My blog on music, mind, and the multiverse"
   enableGitInfo = true
   title = "Dharmic Waves"
   description = "Reflections at the intersection of dharma, signal processing, and code"
+  googleAnalytics = "G-4WN5JB33EB"
+
 
 
 [markup]
