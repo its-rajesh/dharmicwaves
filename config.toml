@@ -1,6 +1,6 @@
 baseURL = "https://its-rajesh.github.io/dharmicwaves/"
 languageCode = "en-us"
-title = "Dharmicwaves"
+title = "Dharmic Waves"
 theme = "LoveIt"
 
 [params]
@@ -11,4 +11,3 @@ theme = "LoveIt"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
