@@ -11,3 +11,4 @@ theme = "LoveIt"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
