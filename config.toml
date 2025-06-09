@@ -1,0 +1,13 @@
+baseURL = "https://its-rajesh.github.io/dharmicwaves/"
+languageCode = "en-us"
+title = "Dharmicwaves"
+theme = "LoveIt"
+
+[params]
+  defaultTheme = "auto"
+  enableGitInfo = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
