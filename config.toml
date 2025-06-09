@@ -1,7 +1,9 @@
 baseURL = "https://its-rajesh.github.io/dharmicwaves/"
 languageCode = "en-us"
-title = "Dharmic Waves"
 theme = "LoveIt"
+title = "Dharmic Waves"
+description = "My blog on music, mind, and the multiverse"
+
 
 [params]
   defaultTheme = "auto"
