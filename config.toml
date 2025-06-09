@@ -8,6 +8,9 @@ description = "My blog on music, mind, and the multiverse"
 [params]
   defaultTheme = "auto"
   enableGitInfo = true
+  title = "Dharmic Waves"
+  description = "Reflections at the intersection of dharma, signal processing, and code"
+
 
 [markup]
   [markup.goldmark]
