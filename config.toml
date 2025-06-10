@@ -5,12 +5,16 @@ title = "Dharmic Waves"
 description = "My blog on music, mind, and the multiverse"
 
 [params]
-  defaultTheme = "auto"
-  enableGitInfo = true
   title = "Dharmic Waves"
   description = "Reflections at the intersection of dharma, signal processing, and code"
+  logo = ""  # This line is CRUCIAL to avoid the build crash
+  defaultTheme = "auto"
+  enableGitInfo = true
   googleAnalytics = "G-4WN5JB33EB"
-  logo = ""
+
+  [params.header]
+    title = "Dharmic Waves"
+
 
 [params.header]
   title = "Dharmic Waves"
