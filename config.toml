@@ -11,12 +11,12 @@ description = "My blog on music, mind, and the multiverse"
   enableGitInfo = true
   googleAnalytics = "G-4WN5JB33EB"
 
-  [params.logo]
-    path = ""
-    alt = "Logo"
+[params.logo]
+  path = ""
+  alt = "Logo"
 
-  [params.header]
-    title = "Dharmic Waves"
+[params.header]
+  title = "Dharmic Waves"
 
 [markup]
   [markup.goldmark]
