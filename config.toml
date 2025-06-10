@@ -10,10 +10,7 @@ description = "My blog on music, mind, and the multiverse"
   defaultTheme = "auto"
   enableGitInfo = true
   googleAnalytics = "G-4WN5JB33EB"
-
-[params.logo]
-  path = ""
-  alt = "Logo"
+  logo = ""
 
 [params.header]
   title = "Dharmic Waves"
