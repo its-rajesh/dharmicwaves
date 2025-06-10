@@ -7,10 +7,13 @@ description = "My blog on music, mind, and the multiverse"
 [params]
   title = "Dharmic Waves"
   description = "Reflections at the intersection of dharma, signal processing, and code"
-  logo = ""  # no logo for now
   defaultTheme = "auto"
   enableGitInfo = true
   googleAnalytics = "G-4WN5JB33EB"
+
+  [params.logo]
+    path = ""
+    alt = "Logo"
 
   [params.header]
     title = "Dharmic Waves"
