@@ -10,6 +10,7 @@ description = "My blog on music, mind, and the multiverse"
   title = "Dharmic Waves"
   description = "Reflections at the intersection of dharma, signal processing, and code"
   googleAnalytics = "G-4WN5JB33EB"
+  logo = ""
 
 [params.header]
   title = "Dharmic Waves"
