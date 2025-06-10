@@ -1,13 +1,13 @@
 baseURL = "https://its-rajesh.github.io/dharmicwaves/"
 languageCode = "en-us"
-theme = "LoveIt"
 title = "Dharmic Waves"
+theme = "LoveIt"
 description = "My blog on music, mind, and the multiverse"
 
 [params]
   title = "Dharmic Waves"
   description = "Reflections at the intersection of dharma, signal processing, and code"
-  logo = ""  # This line is CRUCIAL to avoid the build crash
+  logo = ""  # no logo for now
   defaultTheme = "auto"
   enableGitInfo = true
   googleAnalytics = "G-4WN5JB33EB"
