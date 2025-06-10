@@ -15,10 +15,6 @@ description = "My blog on music, mind, and the multiverse"
   [params.header]
     title = "Dharmic Waves"
 
-
-[params.header]
-  title = "Dharmic Waves"
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
