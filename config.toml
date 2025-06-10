@@ -4,7 +4,6 @@ theme = "LoveIt"
 title = "Dharmic Waves"
 description = "My blog on music, mind, and the multiverse"
 
-
 [params]
   defaultTheme = "auto"
   enableGitInfo = true
@@ -12,7 +11,8 @@ description = "My blog on music, mind, and the multiverse"
   description = "Reflections at the intersection of dharma, signal processing, and code"
   googleAnalytics = "G-4WN5JB33EB"
 
-
+[params.header]
+  title = "Dharmic Waves"
 
 [markup]
   [markup.goldmark]
