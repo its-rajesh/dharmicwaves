@@ -22,3 +22,4 @@ description = "My blog on music, mind, and the multiverse"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
