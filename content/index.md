@@ -1,4 +1,4 @@
 ---
 title: "Homepage"
-description: "This is my cool site"
+description: "Changed: This is my cool site"
 ---
