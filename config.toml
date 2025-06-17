@@ -10,6 +10,7 @@ description = "My blog on music, mind, and the multiverse"
 
   [params.home.profile]
     enable = true
+    gravatarEmail = ""
     avatarURL = "/images/avatar.png"
     title = "Dharmic Waves"
     subtitle = "Reflections at the intersection of dharma, signal processing, and code"
