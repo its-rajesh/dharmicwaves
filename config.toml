@@ -5,22 +5,20 @@ theme = "LoveIt"
 description = "My blog on music, mind, and the multiverse"
 
 [params]
-  title = "Dharmic Waves"
-  description = "Reflections at the intersection of dharma, signal processing, and code"
   defaultTheme = "auto"
   enableGitInfo = true
   googleAnalytics = "G-4WN5JB33EB"
 
 [params.header]
-  title = "Dharmic Waves"
+  desktopMode = "fixed"
+  mobileMode = "auto"
 
-[params.header.title]
-  logo = "images/logo.png"
-  name = "Dharmic Waves"
-
+  [params.header.title]
+    logo = "images/logo.png"
+    name = "Dharmic Waves"
+    # optional: pre/post/typeit attributed to the theme :contentReference[oaicite:6]{index=6}
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
