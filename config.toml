@@ -4,13 +4,17 @@ title = "Dharmic Waves"
 theme = "LoveIt"
 description = "My blog on music, mind, and the multiverse"
 
-[params.home.profile]
-  enable = true
-  avatarURL = "/images/avatar.png"    # optional
-  title = "Dharmic Waves"             # optional
-  subtitle = "Reflections at the intersection of dharma, signal processing, and code"
-  typeit = true
-  social = true
+[params.home]
+  # Number of RSS items (optional)
+  rss = 10
+
+  [params.home.profile]
+    enable = true
+    avatarURL = "/images/avatar.png"
+    title = "Dharmic Waves"
+    subtitle = "Reflections at the intersection of dharma, signal processing, and code"
+    typeit = true
+    social = true
 
 [params]
   defaultTheme = "auto"
