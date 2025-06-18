@@ -4,10 +4,26 @@ title = "Dharmic Waves"
 theme = "LoveIt"
 description = "My blog on music, mind, and the multiverse"
 
-[params.home]
-  # Number of RSS items (optional)
-  rss = 10
+[params]
+  defaultTheme = "auto"
+  enableGitInfo = true
+  googleAnalytics = "G-4WN5JB33EB"
+  logo = "/images/logo.png"
+  ShowSocialIcons = true
 
+[params.author]
+  name = "Rajesh"
+
+[params.header]
+  desktopMode = "fixed"
+  mobileMode = "auto"
+
+  [params.header.title]
+    logo = "/images/logo.png"
+    name = "Dharmic Waves"
+
+[params.home]
+  rss = 10
   [params.home.profile]
     enable = true
     gravatarEmail = ""
@@ -17,24 +33,7 @@ description = "My blog on music, mind, and the multiverse"
     typeit = true
     social = true
 
-[params]
-  defaultTheme = "auto"
-  enableGitInfo = true
-  googleAnalytics = "G-4WN5JB33EB"
-  author = "Rajesh"
-  logo = "/images/logo.png"
-  ShowSocialIcons = true
-
-[params.header]
-  desktopMode = "fixed"
-  mobileMode = "auto"
-
-  [params.header.title]
-    logo = "images/logo.png"
-    name = "Dharmic Waves"
-    # optional: pre/post/typeit attributed to the theme :contentReference[oaicite:6]{index=6}
-
-[params.socialIcons]
+[[params.socialIcons]]
   name = "instagram"
   url = "https://www.instagram.com/dharmicwaves/"
 
