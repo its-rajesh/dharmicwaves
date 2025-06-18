@@ -4,11 +4,6 @@ date: 2025-06-17
 author: "Rajesh"
 tags: ["Mahabharata","righteousness", "dharma", "spiritual"]
 draft: false
-cover:
-  image: "/dharmicwaves/images/proof.png"
-  alt: "Karna and Arjuna illustration"
-  caption: "Karna vs Arjuna – Truth and Dharma"
-  relative: true
 ---
 
 ### Setting the Stage
