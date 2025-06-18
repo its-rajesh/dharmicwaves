@@ -8,7 +8,7 @@ description = "My blog on music, mind, and the multiverse"
   defaultTheme = "auto"
   enableGitInfo = true
   googleAnalytics = "G-4WN5JB33EB"
-  logo = "images/logo.png"
+  logo = "/dharmicwaves/images/logo.png"
   ShowSocialIcons = true
 
 [params.author]
@@ -19,7 +19,7 @@ description = "My blog on music, mind, and the multiverse"
   mobileMode = "auto"
 
   [params.header.title]
-    logo = "images/logo.png"
+    logo = "/dharmicwaves/images/logo.png"
     name = "Dharmic Waves"
 
 [params.home]
