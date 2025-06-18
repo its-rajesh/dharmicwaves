@@ -6,7 +6,7 @@ tags: ["Mahabharata","righteousness", "dharma", "Karna", "Arjuna"]
 draft: false
 ---
 
-# Setting the Stage
+### Setting the Stage
 
 We all know that the *Bhagavad Gita* was heard by two people: **Arjuna**, and **Dhritarashtra**—through the words of **Sanjaya**. 
 
@@ -18,7 +18,7 @@ What does this tell us?
 That knowledge, however divine, **depends entirely on the receiver**.  
 It’s not the clarity of the message that matters—it’s the clarity of the mind that hears it.
 
-# How Do We Know What Is Right?
+#### How Do We Know What Is Right?
 
 But this brings us to more questions:  
 - How do we know if *we* are seeing things clearly?  
@@ -29,13 +29,13 @@ But this brings us to more questions:
 
 These questions are not just philosophical luxuries—they are essential in a time when **information is abundant, but wisdom is rare**.
 
-# The Media Mirage
+## The Media Mirage
 
 In modern times, many of our choices are no longer entirely our own. Media—perhaps the world’s most effective brainwasher—shapes perceptions, reinforces biases, and builds illusions faster than we can think. It sets narratives that dominate not only politics, but even culture, religion, and lifestyle.
 
 The most concerning part? People *knowingly* accept falsehoods over truth. Why? Because it’s more entertaining. It feels easier. It fits into short attention spans and feeds our emotional desires. For the younger generation especially, truth often takes a backseat to fun. Harsh realities are pushed aside in favor of comfortable fantasies.
 
-# If Not the Media, Then Whom to Trust?
+##### If Not the Media, Then Whom to Trust?
 
 If media is unreliable, where should we look?  
 Can we even trust books—especially historical or religious texts?  
