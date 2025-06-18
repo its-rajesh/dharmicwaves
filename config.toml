@@ -33,6 +33,10 @@ description = "My blog on music, mind, and the multiverse"
     typeit = true
     social = true
 
+[params.page]
+  share = false
+  social = false
+
 [params.social]
   Instagram = "https://www.instagram.com/dharmicwaves/"
 
