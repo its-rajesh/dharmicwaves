@@ -29,7 +29,7 @@ description = "My blog on music, mind, and the multiverse"
     gravatarEmail = ""
     avatarURL = "/dharmicwaves/images/avatar.png"
     title = "Dharmic Waves"
-    subtitle = "Reflections at the intersection of dharma, signal processing, and code"
+    subtitle = "Intuition, Science, Politics, Nation, and Beyond!"
     typeit = true
     social = true
 
@@ -41,7 +41,7 @@ description = "My blog on music, mind, and the multiverse"
 
 
 [params.social]
-  Instagram = "https://www.instagram.com/dharmicwaves/"
+  Instagram = "/dharmicwaves/"
 
 [markup]
   [markup.goldmark]
