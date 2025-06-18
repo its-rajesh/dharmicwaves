@@ -4,6 +4,11 @@ date: 2025-06-17
 author: "Rajesh"
 tags: ["Mahabharata","righteousness", "dharma", "spiritual"]
 draft: false
+cover:
+  image: "/dharmicwaves/images/proof.png"
+  alt: "Karna and Arjuna illustration"
+  caption: "Karna vs Arjuna – Truth and Dharma"
+  relative: true
 ---
 
 ### Setting the Stage
@@ -61,8 +66,8 @@ Let’s look at the famous part, **Virata Parva**.
 
 Here, the Pandavas are in exile and living incognito. When the Kauravas attack the Matsya kingdom, **Arjuna (as Brihannala)** stands alone and defeats **Bhishma, Drona, Kripa, and Karna**—**not once, but multiple times.**
 
-> “There Arjuna stood alone in battle and drove away the entire army of the Kauravas... Karna was defeated and retreated, struck with arrows like a storm of fire.”
 > ![Screenshot](/dharmicwaves/images/proof.png)
+> 
 > — *Mahabharata, Virata Parva, Section 47 (Go-Grahana Parva), Chapter - 651 (55) (Bibek Debroy, Critical Edition)*
 
 This is not metaphor or exaggeration.  
