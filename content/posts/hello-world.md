@@ -1,8 +1,8 @@
 ---
-title: "Karna vs Arjuna: What the Mahabharata Really Teaches About Truth and Dharma"
+title: "Don’t Just Believe—Think: The Power of Right Knowledge"
 date: 2025-06-17
 author: "Rajesh"
-tags: ["Mahabharata", "dharma", "Karna", "Arjuna"]
+tags: ["Mahabharata","righteousness", "dharma", "Karna", "Arjuna"]
 draft: false
 ---
 
