@@ -34,11 +34,12 @@ description = "My blog on music, mind, and the multiverse"
     social = true
 
 [params.page]
+  showImage = true
   [params.page.share]
     enable = false
   [params.page.social]
     enable = false
-
+  
 
 [params.social]
   Instagram = "/dharmicwaves/"
