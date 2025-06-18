@@ -18,7 +18,7 @@ What does this tell us?
 That knowledge, however divine, **depends entirely on the receiver**.  
 It’s not the clarity of the message that matters—it’s the clarity of the mind that hears it.
 
-## How Do We Know What Is Right?
+# How Do We Know What Is Right?
 
 But this brings us to more questions:  
 - How do we know if *we* are seeing things clearly?  
