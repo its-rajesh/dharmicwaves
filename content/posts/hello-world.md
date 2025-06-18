@@ -6,7 +6,7 @@ tags: ["Mahabharata","righteousness", "dharma", "Karna", "Arjuna"]
 draft: false
 ---
 
-## Setting the Stage
+# Setting the Stage
 
 We all know that the *Bhagavad Gita* was heard by two people: **Arjuna**, and **Dhritarashtra**—through the words of **Sanjaya**. 
 
@@ -29,50 +29,35 @@ But this brings us to more questions:
 
 These questions are not just philosophical luxuries—they are essential in a time when **information is abundant, but wisdom is rare**.
 
-## The Media Mirage
+# The Media Mirage
 
-In modern life, many of our decisions are no longer truly our own.  
-**Media—arguably the most powerful brainwashing tool today—molds minds, shapes public opinion, and sets the tone of entire societies.**
+In modern times, many of our choices are no longer entirely our own. Media—perhaps the world’s most effective brainwasher—shapes perceptions, reinforces biases, and builds illusions faster than we can think. It sets narratives that dominate not only politics, but even culture, religion, and lifestyle.
 
-It controls the narrative across politics, religion, education, and even history.
+The most concerning part? People *knowingly* accept falsehoods over truth. Why? Because it’s more entertaining. It feels easier. It fits into short attention spans and feeds our emotional desires. For the younger generation especially, truth often takes a backseat to fun. Harsh realities are pushed aside in favor of comfortable fantasies.
 
-The scariest part?  
-People *knowingly* accept lies over truth—because falsehood is easier, more entertaining, and often more comforting.
-
-For younger generations especially, truth takes a backseat to fun.  
-**Reality becomes what is viral. Not what is verifiable.**
-
-## If Not the Media, Then Whom to Trust?
+# If Not the Media, Then Whom to Trust?
 
 If media is unreliable, where should we look?  
 Can we even trust books—especially historical or religious texts?  
 Just because something is written—does that make it true?
 
-The real question becomes:  
-**How can we validate what we read? How do we recognize righteousness?**
+The real question is: **How can we validate the righteousness of what we read or hear?** And more importantly: **What *is* righteousness? What *is* dharma?**
 
-This is where *dharma* enters—and complicates everything.
+These are not questions with simple answers. In fact, the Bhagavad Gita and the Mahabharata revolve around precisely these dilemmas. They don’t offer ready-made solutions—but they do show us how to think clearly, ethically, and with awareness.
+And yet, even these sacred texts are not spared from reinterpretation, distortion, and debate.
 
-The *Bhagavad Gita* and *Mahabharata* don’t give you direct answers.  
-Instead, they teach you **how to think, how to question, how to choose with awareness.**
+# Arjuna vs Karna: A Useless Internet Debate!
 
-And yet—even these timeless texts are twisted today, **filtered through dramatizations, ideology, or selective retellings.**
-
-## Arjuna vs Karna: A Useless Internet Debate?
-
-Let’s take one such example—the wildly popular **Karna vs Arjuna** debate.
-
-Is this really a debate? On what basis?
+Let’s take one such example—the wildly popular **Karna vs Arjuna** debate. Is this really a debate? On what basis?
 
 Before choosing sides, ask yourself:  
-**Are you seeking the truth—or just echoing what you saw in a movie or web series?**
+**Are you seeking the truth—or just echoing what you saw in a movie or web series? (comfort)**
 
-## What Do the Scriptures Actually Say?
+# What Do the Scriptures Actually Say?
 
-Let’s turn to the **Critical Edition of the Mahabharata**, a scholarly reconstruction that removes later interpolations and aims to preserve what Vyasa originally composed.  
-Among its most reliable English translations is **Bibek Debroy’s**, published by Penguin India.
+Let’s turn to the **Critical Edition of the Mahabharata**, a scholarly reconstruction that removes later interpolations and aims to preserve what Vyasa originally composed. Among its most reliable English translations is **Bibek Debroy’s**, published by Penguin India.
 
-Let’s look at the **Virata Parva**.
+Let’s look at the famous part, **Virata Parva**.
 
 Here, the Pandavas are in exile and living incognito. When the Kauravas attack the Matsya kingdom, **Arjuna (as Brihannala)** stands alone and defeats **Bhishma, Drona, Kripa, and Karna**—**not once, but multiple times.**
 
@@ -84,7 +69,7 @@ It is **textual fact**—directly from scripture.
 
 **Arjuna’s superiority isn’t a narrative twist. It’s foundational.**
 
-## Then Why the Confusion?
+# Then Why the Confusion?
 
 Because modern media prefers emotional drama over moral clarity.
 
@@ -106,7 +91,7 @@ Arjuna becomes forgotten.
 
 We *think* we are informed. But in truth—we’re simply entertained.
 
-## But Then, Where Is Dharma?
+# But Then, Where Is Dharma?
 
 To those who say *“Karna was greater”*, ask:  
 **If that’s true, why did he lose?**
@@ -119,14 +104,12 @@ What if it’s manipulated?
 That’s a fair doubt. And it brings us to our greatest tool: **our own intellect**.
 
 Blind belief—whether in ancient texts or modern headlines—serves no one.  
-We must compare, analyze, read deeply, and ask questions.  
+We must read, compare, reflect, analyze, question, and reason
 Only then will **truth rise above the noise**.
 
-## Mahabharata Is Not About Power
+# Mahabharata Is Not About Power
 
-The epic is not a battle of biceps or bows.
-
-It is a **journey through moral complexity**.
+The epic is not a battle of biceps or bows. It is a **journey through moral complexity**.
 
 Karna, though valiant, **knowingly** chose the side of *adharma*.  
 - He sided with Duryodhana despite knowing the injustice  
@@ -140,22 +123,20 @@ Arjuna, meanwhile, constantly questions himself. He resists war, he reflects, he
 **If Karna is made the hero, what happens to the concept of dharma itself?**  
 What’s left to teach if the one who chose adharma is celebrated as nobler?
 
-## Is Dharma Subjective?
+# Is Dharma Subjective?
 
-Some may wonder—“Isn’t righteousness subjective?”  
-Doesn’t it vary from person to person?
-
-The answer is both yes and no.
+Some may wonder—“Isn’t righteousness subjective?”  In this context, doesn’t it vary from person to person?
+The answer is both *yes* and *no*.
 
 Yes—it *feels* subjective, because our minds are clouded by ego, trauma, and desire.  
 But deep down, **we all know what is right**. The voice is within us. The only task is to **nurture it and rise above the noise.**
 
 In a world full of quick fixes and loud opinions, **it takes strength to be quiet, reflect, and listen to our own conscience**.
 
-## So, What Should We Do?
+# So, What Should We Do?
 
 We must stop asking:  
-> “What sounds right?”  
+> “What *sounds* right?”  
 And start asking:  
 > “What *is* right?”
 
