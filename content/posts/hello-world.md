@@ -2,7 +2,7 @@
 title: "Don’t Just Believe—Think: The Power of Right Knowledge"
 date: 2025-06-17
 author: "Rajesh"
-tags: ["Mahabharata","righteousness", "dharma", "Karna", "Arjuna"]
+tags: ["Mahabharata","righteousness", "dharma", "spiritual"]
 draft: false
 ---
 
@@ -11,7 +11,7 @@ draft: false
 We all know that the *Bhagavad Gita* was heard by two people: **Arjuna**, and **Dhritarashtra**—through the words of **Sanjaya**. 
 
 One transformed his life with that knowledge, understanding the complexities of existence and the way of dharma.  
-The other... simply thought Krishna was brainwashing Arjuna.
+The other... dismissed it as Krishna merely trying to influence Arjuna.
 
 What does this tell us?
 
@@ -62,7 +62,7 @@ Let’s look at the famous part, **Virata Parva**.
 Here, the Pandavas are in exile and living incognito. When the Kauravas attack the Matsya kingdom, **Arjuna (as Brihannala)** stands alone and defeats **Bhishma, Drona, Kripa, and Karna**—**not once, but multiple times.**
 
 > “There Arjuna stood alone in battle and drove away the entire army of the Kauravas... Karna was defeated and retreated, struck with arrows like a storm of fire.”  
-> — *Mahabharata, Virata Parva (Bibek Debroy, Critical Edition)*
+> — *Mahabharata, Virata Parva, Section 47 (Go-Grahana Parva), Chapter - 651 (55) (Bibek Debroy, Critical Edition)*
 
 This is not metaphor or exaggeration.  
 It is **textual fact**—directly from scripture.
@@ -86,7 +86,7 @@ Arjuna, however, represents complexity.
 **That’s harder to dramatize.**
 
 And so, Karna becomes popular.  
-Arjuna becomes forgotten.  
+Arjuna becomes overlooked.  
 **Truth gets replaced by sentiment.**
 
 We *think* we are informed. But in truth—we’re simply entertained.
