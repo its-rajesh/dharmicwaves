@@ -21,13 +21,16 @@ description = "My blog on music, mind, and the multiverse"
   defaultTheme = "auto"
   enableGitInfo = true
   googleAnalytics = "G-4WN5JB33EB"
+  author = "Rajesh"
+  logo = "/images/logo.png"
+  ShowSocialIcons = true
 
 [params.header]
   desktopMode = "fixed"
   mobileMode = "auto"
 
   [params.header.title]
-    logo = "/images/logo.png"
+    logo = "images/logo.png"
     name = "Dharmic Waves"
     # optional: pre/post/typeit attributed to the theme :contentReference[oaicite:6]{index=6}
 
