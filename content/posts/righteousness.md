@@ -62,7 +62,7 @@ Let’s look at the famous part, **Virata Parva**.
 Here, the Pandavas are in exile and living incognito. When the Kauravas attack the Matsya kingdom, **Arjuna (as Brihannala)** stands alone and defeats **Bhishma, Drona, Kripa, and Karna**—**not once, but multiple times.**
 
 > “There Arjuna stood alone in battle and drove away the entire army of the Kauravas... Karna was defeated and retreated, struck with arrows like a storm of fire.”
-> ![Screenshot](/dharmicwaves/images/karna-arjuna.jpg)
+> ![Screenshot](/dharmicwaves/images/proof.png)
 > — *Mahabharata, Virata Parva, Section 47 (Go-Grahana Parva), Chapter - 651 (55) (Bibek Debroy, Critical Edition)*
 
 This is not metaphor or exaggeration.  
