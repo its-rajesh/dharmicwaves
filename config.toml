@@ -33,9 +33,10 @@ description = "My blog on music, mind, and the multiverse"
     typeit = true
     social = true
 
-[[params.socialIcons]]
-  name = "instagram"
-  url = "https://www.instagram.com/dharmicwaves/"
+[[params.social]]
+icon = "fa-brands fa-instagram"
+title = "Instagram"
+url = "https://www.instagram.com/dharmicwaves/"
 
 [markup]
   [markup.goldmark]
