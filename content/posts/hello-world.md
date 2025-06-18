@@ -18,7 +18,7 @@ What does this tell us?
 That knowledge, however divine, **depends entirely on the receiver**.  
 It’s not the clarity of the message that matters—it’s the clarity of the mind that hears it.
 
-#### How Do We Know What Is Right?
+### How Do We Know What Is Right?
 
 But this brings us to more questions:  
 - How do we know if *we* are seeing things clearly?  
@@ -29,13 +29,13 @@ But this brings us to more questions:
 
 These questions are not just philosophical luxuries—they are essential in a time when **information is abundant, but wisdom is rare**.
 
-## The Media Mirage
+### The Media Mirage
 
 In modern times, many of our choices are no longer entirely our own. Media—perhaps the world’s most effective brainwasher—shapes perceptions, reinforces biases, and builds illusions faster than we can think. It sets narratives that dominate not only politics, but even culture, religion, and lifestyle.
 
 The most concerning part? People *knowingly* accept falsehoods over truth. Why? Because it’s more entertaining. It feels easier. It fits into short attention spans and feeds our emotional desires. For the younger generation especially, truth often takes a backseat to fun. Harsh realities are pushed aside in favor of comfortable fantasies.
 
-##### If Not the Media, Then Whom to Trust?
+### If Not the Media, Then Whom to Trust?
 
 If media is unreliable, where should we look?  
 Can we even trust books—especially historical or religious texts?  
@@ -46,14 +46,14 @@ The real question is: **How can we validate the righteousness of what we read or
 These are not questions with simple answers. In fact, the Bhagavad Gita and the Mahabharata revolve around precisely these dilemmas. They don’t offer ready-made solutions—but they do show us how to think clearly, ethically, and with awareness.
 And yet, even these sacred texts are not spared from reinterpretation, distortion, and debate.
 
-# Arjuna vs Karna: A Useless Internet Debate!
+### Arjuna vs Karna: A Useless Internet Debate!
 
 Let’s take one such example—the wildly popular **Karna vs Arjuna** debate. Is this really a debate? On what basis?
 
 Before choosing sides, ask yourself:  
 **Are you seeking the truth—or just echoing what you saw in a movie or web series? (comfort)**
 
-# What Do the Scriptures Actually Say?
+### What Do the Scriptures Actually Say?
 
 Let’s turn to the **Critical Edition of the Mahabharata**, a scholarly reconstruction that removes later interpolations and aims to preserve what Vyasa originally composed. Among its most reliable English translations is **Bibek Debroy’s**, published by Penguin India.
 
@@ -69,7 +69,7 @@ It is **textual fact**—directly from scripture.
 
 **Arjuna’s superiority isn’t a narrative twist. It’s foundational.**
 
-# Then Why the Confusion?
+### Then Why the Confusion?
 
 Because modern media prefers emotional drama over moral clarity.
 
@@ -91,7 +91,7 @@ Arjuna becomes forgotten.
 
 We *think* we are informed. But in truth—we’re simply entertained.
 
-# But Then, Where Is Dharma?
+### But Then, Where Is Dharma?
 
 To those who say *“Karna was greater”*, ask:  
 **If that’s true, why did he lose?**
@@ -107,7 +107,7 @@ Blind belief—whether in ancient texts or modern headlines—serves no one.
 We must read, compare, reflect, analyze, question, and reason
 Only then will **truth rise above the noise**.
 
-# Mahabharata Is Not About Power
+### Mahabharata Is Not About Power
 
 The epic is not a battle of biceps or bows. It is a **journey through moral complexity**.
 
@@ -123,7 +123,7 @@ Arjuna, meanwhile, constantly questions himself. He resists war, he reflects, he
 **If Karna is made the hero, what happens to the concept of dharma itself?**  
 What’s left to teach if the one who chose adharma is celebrated as nobler?
 
-# Is Dharma Subjective?
+### Is Dharma Subjective?
 
 Some may wonder—“Isn’t righteousness subjective?”  In this context, doesn’t it vary from person to person?
 The answer is both *yes* and *no*.
@@ -133,7 +133,7 @@ But deep down, **we all know what is right**. The voice is within us. The only t
 
 In a world full of quick fixes and loud opinions, **it takes strength to be quiet, reflect, and listen to our own conscience**.
 
-# So, What Should We Do?
+### So, What Should We Do?
 
 We must stop asking:  
 > “What *sounds* right?”  
