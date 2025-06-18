@@ -31,6 +31,11 @@ description = "My blog on music, mind, and the multiverse"
     name = "Dharmic Waves"
     # optional: pre/post/typeit attributed to the theme :contentReference[oaicite:6]{index=6}
 
+[params.socialIcons]
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/dharmicwaves/"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
