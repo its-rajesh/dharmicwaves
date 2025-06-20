@@ -13,6 +13,7 @@ description = "My blog on music, mind, and the multiverse"
 
 [params.author]
   name = "Rajesh"
+  link = "https://its-rajesh.github.io/rajesh/"
 
 [params.header]
   desktopMode = "fixed"
