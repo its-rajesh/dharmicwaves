@@ -7,7 +7,7 @@ description = "My blog on music, mind, and the multiverse"
 [params]
   defaultTheme = "auto"
   enableGitInfo = true
-  googleAnalytics = "G-4WN5JB33EB"
+  googleAnalytics = "G-P2P9NP5KF2"
   logo = "/dharmicwaves/images/logo.png"
   ShowSocialIcons = true
 
