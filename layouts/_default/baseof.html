@@ -48,10 +48,16 @@
     </a>
   </div>
 
-  {{- partial "assets.html" . -}}
+  {{ partial "assets.html" . }}
+  <!-- Force Injected Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P2P9NP5KF2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-P2P9NP5KF2');
+</script>
 
-  <!-- ✅ Google Analytics -->
-  {{ template "_internal/google_analytics.html" . }}
 </body>
 </html>
 
