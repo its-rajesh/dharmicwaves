@@ -10,13 +10,13 @@ draft: false
 
 ---
 
-# Introduction
+### Introduction
 
 E. V. Ramasamy (the so called Periyar) is often presented in Tamil Nadu as a revolutionary reformer. His supporters call him a social justice icon. His statues stand across Tamil Nadu, and political parties still claim his legacy today. However, **beneath the propaganda lies a hard truth**: he used **hate-filled separatist politics** that **divided Tamil society, attacked Indian unity, rejected the national identity, and encouraged anti-Hindu hostility** according to numerous critics and historians. This article exposes the **separatist ideology** he spread and how it **damaged the national integrity** of India.
 
 ---
 
-# The Real Agenda Behind His Politics
+### The Real Agenda Behind His Politics
 
 Although he claimed to fight for “rationalism” and “self-respect,” **his political campaign was built on extreme separatism**. He openly rejected the idea of one India and **demanded the breakup of the country** by forming a separate nation called **Dravida Nadu**. In multiple speeches, he declared that Tamils must not accept the Indian national identity.
 
@@ -28,7 +28,7 @@ This wasn’t accidental rhetoric. It was a **systematic political campaign** ag
 
 ---
 
-# Everything E. V. Ramasamy Opposed
+### Everything E. V. Ramasamy Opposed
 
 He positioned himself **against every pillar that holds India together**:
 
@@ -52,7 +52,7 @@ He positioned himself **against every pillar that holds India together**:
 
 ---
 
-# How He Spread Division and Hate
+### How He Spread Division and Hate
 
 E. V. Ramasamy used **hate speech, propaganda, and social engineering** to mobilize anger rather than reform. Instead of positive change, he promoted **community hatred**. He deliberately **created hostility among Tamils toward North Indians, Brahmins, Hindi speakers, and Hindu believers**.
 
@@ -64,11 +64,11 @@ He repeatedly used verbal abuse in speeches to seduce crowds emotionally:
 > **“இந்துயிசம் என்பது விஷம்.”**  
 > *“Hinduism is poison.”*
 
-These inflammatory statements did not reform society — they **destroyed civil debate and encouraged hate-driven politics**.
+These inflammatory statements did not reform society, they **destroyed civil debate and encouraged hate-driven politics**.
 
 ---
 
-# His Opposition to Mahatma Gandhi
+### His Opposition to Mahatma Gandhi
 
 E. V. Ramasamy hated Gandhi with extreme intensity. In fact, he **celebrated Gandhi’s assassination** by blaming Gandhi for trying to unite India through non-violence. He wrote that Gandhi protected the caste system, a claim **refuted by historians** who highlight Gandhi’s anti-untouchability campaigns.
 
@@ -77,11 +77,11 @@ He openly wrote and spoke:
 > **“காந்தி தமிழர்களின் பகைவர்.”**  
 > *“Gandhi is the enemy of Tamils.”*
 
-His criticism **was not intellectual — it was personal and abusive**.
+His criticism **was not intellectual, it was personal and abusive**.
 
 ---
 
-# His Lies About B. R. Ambedkar
+### His Lies About B. R. Ambedkar
 
 Modern Dravidian propagandists falsely link E. V. Ramasamy with **Dr. B. R. Ambedkar**, but the truth is:
 
@@ -89,17 +89,17 @@ Modern Dravidian propagandists falsely link E. V. Ramasamy with **Dr. B. R. Ambe
 - Ambedkar **never supported Dravida Nadu**
 - Ambedkar **supported national unity**, not secession
 
-Ambedkar fought caste with constitutional reform, while **E. V. Ramasamy burned the Constitution** in protest[8]. Their ideologies **did not align**.
+Ambedkar fought caste with constitutional reform, while **E. V. Ramasamy burned the Constitution** in protest. Their ideologies **did not align**.
 
 ---
 
-# His Hatred Toward K. Kamaraj
+### His Hatred Toward K. Kamaraj
 
 K. Kamaraj, called the **Kingmaker of India**, was a Tamil leader who **built schools, industries, dams, and roads** across Tamil Nadu. But E. V. Ramasamy hated him because **Kamaraj united Tamils with India** rather than dividing them. He attacked Kamaraj using abusive language during public speeches.
 
 ---
 
-# His War Against Indian Identity
+### His War Against Indian Identity
 
 E. V. Ramasamy **never accepted Indian independence** in 1947. Instead, he claimed:
 
@@ -110,7 +110,7 @@ He **refused to fly the Indian flag**, **rejected the national anthem**, and enc
 
 ---
 
-# The Anti-Hindi Hate Campaign
+### The Anti-Hindi Hate Campaign
 
 The anti-Hindi protests he led in Tamil Nadu in **1938 and 1965** were **not about language rights**, they were **political weapons** used to **create hate against North Indians**. Instead of promoting Tamil language proudly, he chose **linguistic violence**.
 
@@ -121,7 +121,7 @@ He repeatedly said:
 
 ---
 
-# Attacks on Hindu Culture
+### Attacks on Hindu Culture
 
 He openly attacked Hindu festivals, temples, and scriptures. He **burned copies of the Ramayana** and held obscene public demonstrations to insult Hindu beliefs. His writings like *"Suyamariyathai"* and *"Ramayana: A True Review"* insulted Hindu deities.
 
@@ -129,7 +129,7 @@ But did he ever attack any other religion like this? **No.** Because his target 
 
 ---
 
-# Psychological Damage to Tamil Nadu
+### Psychological Damage to Tamil Nadu
 
 His politics **created an inferiority complex in Tamil minds** by endlessly repeating lies:
 
@@ -143,20 +143,20 @@ This **poisoned Tamil political culture** for decades. Even today, some politica
 
 ---
 
-# Evidence of His Separatist Agenda
+### Evidence of His Separatist Agenda
 
 He demanded:
 
 1. **Dravida Nadu secession**
 2. **Tamil Nadu’s exit from India**
 3. **Rejection of Indian Constitution**
-4. **Replacement of national institutions with “Dravidian” identity**[6]
+4. **Replacement of national institutions with “Dravidian” identity**
 
 These are **facts on record**, not opinions. His speeches are documented in **Dravidian party publications, archives, and books**.
 
 ---
 
-# Why Calling Him a Social Reformer Is a Myth
+### Why Calling Him a Social Reformer Is a Myth
 
 A true social reformer **unites people, uplifts society, fights injustice with wisdom, and inspires progress**. But E. V. Ramasamy:
 
@@ -170,7 +170,7 @@ A true social reformer **unites people, uplifts society, fights injustice with w
 
 ---
 
-# The Legacy of Division
+### The Legacy of Division
 
 Tamil Nadu produced giants of wisdom and patriotism:
 
@@ -184,7 +184,7 @@ These leaders **loved Tamil culture but also loved India**. Unlike them, **E. V.
 
 ---
 
-# Conclusion — Time to Remove the Toxic Mindset
+### Conclusion: Time to Remove the Toxic Mindset
 
 The truth is clear: **E. V. Ramasamy was not a freedom fighter, not a nation builder, and not a positive reformer**. He was a **divisive political agitator** whose ideology still **threatens India’s unity**. His words did not build Tamil Nadu, they **burned bridges of peace and brotherhood**.
 
