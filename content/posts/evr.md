@@ -1,5 +1,5 @@
 ---
-title: "The Downfall of Dravidian Ideology - Introduction"
+title: "The Downfall of EVR Wall - Introduction"
 date: 2025-10-17
 author: "Rajesh"
 tags: ["India","Politics", "EVR", "Tamil Nadu"]
@@ -196,6 +196,6 @@ Unfortunately, many among the modern Gen Z remain uninformed about these truths.
 
 Young generation, do not fall for lies. Every falsehood told about E. V. Ramasamy is ultimately hatred against our unity. Do not support parties or ideologies that stand against India’s integrity.
 
-A true Indian unites, never divides. More will follow in the upcoming parts of “The Downfall of Dravidian Ideology” blog series. Stay tuned.
+A true Indian unites, never divides. More will follow in the upcoming parts of “The Downfall of EVR Wall” blog series. Stay tuned.
 
 ---
