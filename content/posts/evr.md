@@ -112,7 +112,7 @@ He **refused to fly the Indian flag**, **rejected the national anthem**, and enc
 
 # The Anti-Hindi Hate Campaign
 
-The anti-Hindi protests he led in Tamil Nadu in **1938 and 1965** were **not about language rights**—they were **political weapons** used to **create hate against North Indians**. Instead of promoting Tamil language proudly, he chose **linguistic violence**.
+The anti-Hindi protests he led in Tamil Nadu in **1938 and 1965** were **not about language rights**, they were **political weapons** used to **create hate against North Indians**. Instead of promoting Tamil language proudly, he chose **linguistic violence**.
 
 He repeatedly said:
 
@@ -123,9 +123,9 @@ He repeatedly said:
 
 # Attacks on Hindu Culture
 
-He openly attacked Hindu festivals, temples, and scriptures. He **burned copies of the Ramayana** and held obscene public demonstrations to insult Hindu beliefs[12]. His writings like *"Suyamariyathai"* and *"Ramayana: A True Review"* insulted Hindu deities.
+He openly attacked Hindu festivals, temples, and scriptures. He **burned copies of the Ramayana** and held obscene public demonstrations to insult Hindu beliefs. His writings like *"Suyamariyathai"* and *"Ramayana: A True Review"* insulted Hindu deities.
 
-But did he ever attack any other religion like this? **No.** Because his target was **India’s civilizational foundation — Hindu Dharma**.
+But did he ever attack any other religion like this? **No.** Because his target was **India’s civilizational foundation, Hindu Dharma**.
 
 ---
 
@@ -186,7 +186,7 @@ These leaders **loved Tamil culture but also loved India**. Unlike them, **E. V.
 
 # Conclusion — Time to Remove the Toxic Mindset
 
-The truth is clear: **E. V. Ramasamy was not a freedom fighter, not a nation builder, and not a positive reformer**. He was a **divisive political agitator** whose ideology still **threatens India’s unity**. His words did not build Tamil Nadu — they **burned bridges of peace and brotherhood**.
+The truth is clear: **E. V. Ramasamy was not a freedom fighter, not a nation builder, and not a positive reformer**. He was a **divisive political agitator** whose ideology still **threatens India’s unity**. His words did not build Tamil Nadu, they **burned bridges of peace and brotherhood**.
 
 It is time for Tamil Nadu to **rise above outdated hatred, separate propaganda from history, and embrace national unity with cultural pride**. Neverthless modern GenZ are not informed with the truth nowadays. Political parties once considered him as enemy now uses him for political agenda for split politics. Younger generation, do not fall for lies. All the lies they say about EVR is hatred to our unity. Nevr support such parties, nor their anti india agenda. A true indian will unite india, not divide. 
 Will bring more, discuss more in the "The Downfall of Dravidian Ideology" blog series. Stay tuned!.
