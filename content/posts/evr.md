@@ -184,11 +184,18 @@ These leaders **loved Tamil culture but also loved India**. Unlike them, **E. V.
 
 ---
 
-### Conclusion: Time to Remove the Toxic Mindset
+### Conclusion: The Change Started
 
-The truth is clear: **E. V. Ramasamy was not a freedom fighter, not a nation builder, and not a positive reformer**. He was a **divisive political agitator** whose ideology still **threatens India’s unity**. His words did not build Tamil Nadu, they **burned bridges of peace and brotherhood**.
+The truth is clear. E. V. Ramasamy was neither a freedom fighter nor a nation builder, and certainly not a positive reformer. He was a divisive political agitator whose ideology still threatens India’s unity. His words did not build Tamil Nadu; they burned the bridges of peace and brotherhood.
 
-It is time for Tamil Nadu to **rise above outdated hatred, separate propaganda from history, and embrace national unity with cultural pride**. Neverthless modern GenZ are not informed with the truth nowadays. Political parties once considered him as enemy now uses him for political agenda for split politics. Younger generation, do not fall for lies. All the lies they say about EVR is hatred to our unity. Nevr support such parties, nor their anti india agenda. A true indian will unite india, not divide. 
-Will bring more, discuss more in the "The Downfall of Dravidian Ideology" blog series. Stay tuned!.
+There was a time when his ideas went unquestioned. Today, in an age when facts can be verified and history re-examined, much of the original material has vanished from the internet. Yet people have begun to speak the truth once again.
+
+It is time for Tamil Nadu to rise above outdated hatred, to separate propaganda from history, and to embrace national unity with cultural pride. Let us reject everything rooted in division or hostility.
+
+Unfortunately, many among the modern Gen Z remain uninformed about these truths. Political parties that once opposed him now invoke his image for their own political gain.
+
+Young generation, do not fall for lies. Every falsehood told about E. V. Ramasamy is ultimately hatred against our unity. Do not support parties or ideologies that stand against India’s integrity.
+
+A true Indian unites, never divides. More will follow in the upcoming parts of “The Downfall of Dravidian Ideology” blog series. Stay tuned.
 
 ---
