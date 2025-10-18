@@ -10,6 +10,8 @@ description = "Intuition, Science, Politics, Nation, and Beyond!"
   googleAnalytics = "G-P2P9NP5KF2"
   logo = "/dharmicwaves/images/logo.png"
   ShowSocialIcons = true
+  favicon = "/dharmicwaves/images/logo.png"
+
 
 [params.author]
   name = "Rajesh"
