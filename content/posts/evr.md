@@ -3,7 +3,7 @@ title: "The Downfall of EVR Wall - Introduction"
 date: 2025-10-17
 author: "Rajesh"
 tags: ["India","Politics", "EVR", "Tamil Nadu"]
-draft: false
+draft: true
 ---
 
 # E. V. Ramasamy: The Man Who Tried to Break India from Within
